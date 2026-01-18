@@ -1,0 +1,41 @@
+# Binaries
+Cliphis
+cliphis
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.dmg
+*.app
+tmp/
+build/
+
+# Go workspace files
+*.test
+*.out
+*.prof
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
